@@ -1,11 +1,21 @@
 
-🌾 SmartIntern AI Project: Rice Grain Classification Using Image Upload
+🌾 SmartIntern AI Project: Rice Grain Classification Using Image Upload  
+
+
+
+
 📌 Project Title
 "SmartAI Grain: Deep Learning-Based Rice Classification from User-Uploaded Images"
+
+
+
 🚀 Project Overview
 In the era of smart agriculture, precision and speed are key. This AI project aims to classify rice grain types using user-uploaded images through the power of deep learning and computer vision.
 
 Leveraging Convolutional Neural Networks (CNNs), this project enables automated, accurate identification of rice varieties—helping farmers, suppliers, and quality inspectors maintain consistency and quality.
+
+
+
 
 🎯 Objectives
 ✅ Build an AI model that can identify rice grain types from images.
@@ -15,6 +25,8 @@ Leveraging Convolutional Neural Networks (CNNs), this project enables automated,
 ✅ Achieve high accuracy using deep learning techniques.
 
 ✅ Deliver fast and reliable results in real-time.
+
+
 
 🗂️ Dataset Description
 Feature	Detail
