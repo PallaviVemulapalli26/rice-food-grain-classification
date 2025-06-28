@@ -1,5 +1,4 @@
-# rice-food-grain-classification
-food grain classification 
+
 🌾 SmartIntern AI Project: Rice Grain Classification Using Image Upload
 📌 Project Title
 "SmartAI Grain: Deep Learning-Based Rice Classification from User-Uploaded Images"
